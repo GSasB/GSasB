@@ -1,7 +1,8 @@
-### Hi 👋 I'm Guillaume
-I'm curently working for [Hero](https://www.hero.fr/)
+![banner](https://i.pinimg.com/originals/5b/b1/a5/5bb1a58bec3611ef1a5766eb8ce20292.gif)
 
-![](https://animesher.com/orig/0/90/905/9052/animesher.com_rain-car-gif-905270.gif)
+### Hi 👋 I'm Guillaume 
+➡️ I'm a 🇫🇷 Software Developer  
+🚀 I'm curently working for [Hero](https://www.hero.fr/)
 
 ### Languages
 
