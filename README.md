@@ -2,7 +2,7 @@
 
 ### Hi 👋 I'm Guillaume 
 ➡️ I'm a 🇫🇷 Software Developer  
-🚀 I'm curently working for [Hero](https://www.hero.fr/)
+🚀 I'm currently working for [Hero](https://www.hero.fr/)
 
 ### Languages
 
