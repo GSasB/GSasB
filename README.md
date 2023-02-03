@@ -1,5 +1,3 @@
-![banner](https://c.tenor.com/SZDpf1j8bk0AAAAC/rin-shelter-oh-no.gif)
-
 ### Hi 👋 I'm Guillaume 
 ➡️ I'm a 🇫🇷 Software Developer  
 🚀 I'm currently working for [Hero](https://www.hero.fr/)
